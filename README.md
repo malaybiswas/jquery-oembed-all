@@ -32,7 +32,7 @@ This is a fork of https://github.com/starfishmod/jquery-oembed-all for supportin
 * ClipSyndicate - http://clipsyndicate.com/
 * Coub - http://coub.com/
 * Discoverychannel - http://discovery.com/
-* Minilogs - http://minlogs.com/
+* Minilogs - http://minilogs.com/
 * Telly - http://telly.com/
 * Viddy - http://viddy.com/
 * Worldstarhiphop - http://worldstarhiphop.com/
